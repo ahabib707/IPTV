@@ -85,24 +85,24 @@ http://two.alfajertv.com:8081/AlfajertvHDTwo_web/web/playlist.m3u8
 #EXTM3U
 #EXTINF:-ONAIR RADIO
 http://web.onair-radio.eu:1935/wixlar/wixlar/playlist.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#EXTM3U
+#EXTINF:-RISHTEY CINEPLEX
+https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex.m3u8 
+#EXTM3U
+#EXTINF:-FOOD52
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-food52/CDN/1280x720_5000000/index.m3u8
+#EXTM3U
+#EXTINF:-MUSIC INDIA
+http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/Stream(02)/index.m3u8
+#EXTM3U
+#EXTINF:-MAHA MOVIE
+https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in.m3u8
+#EXTM3U
+#EXTINF:-MH ONE
+http://rtmp.smartstream.video:1935/mhonemusic/mhonemusic/chunklist.m3u8
+#EXTM3U
+#EXTINF:-MH ONE PRIME
+http://rtmp.smartstream.video:1935/mhonenews/mhonenews/chunklist.m3u8
 
 
 
