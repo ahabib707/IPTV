@@ -145,18 +145,18 @@ https://dai.google.com/linear/hls/event/TSIJo6RCRZWuCD9WrKtRFg/master.m3u8
 #EXTM3U
 #EXTINF:-AMAIZED
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
+#EXTM3U
+#EXTINF:-CARTOON NETWORK
+http://70.39.83.58:8278/cartoonnetworkhindikdin/playlist.m3u8 
+#EXTM3U
+#EXTINF:-CINE MAX ACTION
+http://31.220.41.88:8081/live/us-cinemaxaction.stream/playlist.m3u8
+#EXTM3U
+#EXTINF:-REDBOX AMERICAN CLASSIC
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxamericanclassics/CDN/playlist.m3u8
+#EXTM3U
+#EXTINF:-CINE MAX 
+http://31.220.41.88:8081/live/us-cinemax.stream/playlist.m3u8
 
 
 
