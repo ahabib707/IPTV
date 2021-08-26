@@ -157,10 +157,39 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxamericanclassics/CDN/playli
 #EXTM3U
 #EXTINF:-CINE MAX 
 http://31.220.41.88:8081/live/us-cinemax.stream/playlist.m3u8
-
-
-
-
+#EXTM3U
+#EXTINF:-i TV
+http://162.244.81.142:1935/live/livestream/playlist.m3u8?@amarnettv.live
+#EXTM3U
+#EXTINF:-NANDAN TV
+http://nandansyst.com/hls/nandan.m3u8?@amarnettv.live
+#EXTM3U
+#EXTINF:-K TV
+https://server1.jadubd.com/ktvbangla/ktvbangla/playlist.m3u8
+#EXTM3U
+#EXTINF:-COLORS BANGLA
+https://yuppcatchup.akamaized.net/preview/etvbengali/2500.m3u8
+#EXTM3U
+#EXTINF:-STAR JALSHA
+https://yuppcatchup.akamaized.net/preview/starjalsha/1800.m3u8
+#EXTM3U
+#EXTINF:-SKY NEWS
+https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8?serverSideAds=true
+#EXTM3U
+#EXTINF:-CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?@amarnettv.live
+#EXTM3U
+#EXTINF:-CGTN
+https://live.cgtn.com/1000/prog_index.m3u8?@amarnettv.live
+#EXTM3U
+#EXTINF:-SOUDI ARABIA
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/saudi_quran.m3u8
+#EXTM3U
+#EXTINF:-ONE
+https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
+#EXTM3U
+#EXTINF:-ORIENT
+http://htvint.mada.ps:8889//orient/tracks-v1a1/mono.m3u8 
 
 
 
